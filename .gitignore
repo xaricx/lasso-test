@@ -12,6 +12,9 @@ npm-debug.log*
 #VSCode
 .vscode
 
+#Static Files
+static/*
+
 # Runtime data
 pids
 *.pid

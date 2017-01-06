@@ -1,6 +1,5 @@
 "use strict"
 
-// turn off write-to-disk for Lambda
 require("marko/express")
 require("marko/node-require").install()
 require('lasso/node-require-no-op').enable('.css');
